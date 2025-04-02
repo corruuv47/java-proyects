@@ -1,6 +1,6 @@
 // Calculo del modulo: Pedir un número y determinar si es par o impar.
 
-package practica0;
+package practica00;
 import java.util.Scanner;
 
 public class Ej5 {

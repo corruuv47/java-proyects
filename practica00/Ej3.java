@@ -1,7 +1,7 @@
 // Autenticación de usuario: Pedir un nombre de usuario y contraseña, y verificar si
 // coinciden con un usuario y contraseña guardado.
 
-package practica0;
+package practica00;
 import java.util.Scanner;
 
 public class Ej3{

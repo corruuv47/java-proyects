@@ -1,8 +1,8 @@
 // Sacar el promedio de un alumno, nos da un double nosotros lo convertimos a int
-package ejercicios;
+package ejercicios0110;
 import java.util.Scanner;
 
-public class ej2{
+public class Ejer02{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Ingresar nombre del alumno: ");
