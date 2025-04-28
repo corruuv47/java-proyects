@@ -1,10 +1,10 @@
 // Agregar un bucle do-while para que el menu se repita,
 // tambien agrega la opcion 4 para salir del menu.
 
-package ejercicios1120;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer15{
+public class Act15{
 	public static void main(String args[]){
 		String[] arreglo = {"Sumar", "Restar", "Multiplicar", "Dividir", "Salir"};
 		Scanner sc = new Scanner(System.in);

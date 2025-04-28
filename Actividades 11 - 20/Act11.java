@@ -1,9 +1,9 @@
 // Mostrar el factorial de un numero 
 
-package ejercicios1120;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer11{
+public class Act11{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Ingresá un numero: ");

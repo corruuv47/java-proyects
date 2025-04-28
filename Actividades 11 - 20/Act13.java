@@ -1,8 +1,8 @@
 // Ingresar una letra y mostrar si corresponde a una opción: A. Atacar, B. Bloquear, C. Correr.
-package ejercicios1120;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer13{
+public class Act13{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Ingresá una letra: ");

@@ -1,9 +1,9 @@
 // Hacer un Menú: 1. Sumar, 2. Restar, 3. Multiplicar – pedir dos números y aplicar operación.
 
-package ejercicios1120;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer14{
+public class Act14{
 	public static void main(String args[]){
 		String[] arreglo = {"Sumar", "Restar", "Multiplicar", "Dividir"};
 		Scanner sc = new Scanner(System.in);
@@ -37,5 +37,5 @@ public class Ejer14{
 		}
 		
 		sc.close();
-		}
+	}
 }

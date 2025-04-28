@@ -4,7 +4,7 @@
 // y agregarle 1 a la variable golesencontra ++
 // Mostrar la diferencia de goles de la seleccion
 
-package ejercicios0110;
+package acts01;
 public class Ejer06{
     public static void main(String args[]){
         int goles_a_favor = 22;

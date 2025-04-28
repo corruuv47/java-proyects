@@ -1,5 +1,5 @@
 // Dado un numero de segundos(int) convertirlo a minutos(double) utilizar el modulo-%
-package ejercicios0110;
+package acts01;
 import java.util.Scanner;
 
 public class Ejer04{

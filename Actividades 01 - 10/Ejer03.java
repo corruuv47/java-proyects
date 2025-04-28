@@ -1,5 +1,5 @@
 // Convertir una tempreatura Celcius(double) a Fahrenheit(int) (formula: 0 °C × 9/5) + 32 = 32 °F)
-package ejercicios0110;
+package acts01;
 import java.util.Scanner;
 
 public class Ejer03{

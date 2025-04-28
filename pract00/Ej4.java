@@ -1,6 +1,6 @@
 // Validación de número positivo: Comprobar si un número ingresado es positivo, negativo o cero.
 
-package practica00;
+package pract00;
 import java.util.Scanner;
 
 public class Ej4{

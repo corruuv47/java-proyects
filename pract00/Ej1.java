@@ -1,7 +1,7 @@
 // Comparar dos números: Solicitar dos números distintos y mostrar cual es el mayor, tener
 // en cuenta el caso de que sean iguales.
 
-package practica00;
+package pract00;
 import java.util.Scanner;
 
 public class Ej1{

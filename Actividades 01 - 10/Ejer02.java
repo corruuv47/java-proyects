@@ -1,5 +1,5 @@
 // Sacar el promedio de un alumno, nos da un double nosotros lo convertimos a int
-package ejercicios0110;
+package acts01;
 import java.util.Scanner;
 
 public class Ejer02{

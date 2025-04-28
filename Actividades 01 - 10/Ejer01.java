@@ -1,6 +1,6 @@
 // Código que ingresa un nombre por entrada estándar e imprime el nombre ingresado.
 
-package ejercicios0110;
+package acts01;
 import java.util.Scanner;
 
 public class Ejer01{

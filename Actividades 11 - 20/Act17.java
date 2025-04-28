@@ -1,7 +1,8 @@
-package ejercicios1120;
+// Pedir contraseñas hasque que se escriba "latzina123"
+package actividades;
 import java.util.Scanner;
 
-public class Ejer17{
+public class Act17{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		String contra = "latzina123";

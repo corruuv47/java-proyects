@@ -2,7 +2,7 @@
 // 2 Ese nombre mostrarlo en Mayusculas .toUpperCase() y minusculas .toLowerCase()
 // 3 Pedir el apellido del usuario y concatenarlo en un nuevo String +
 // 4 Devolver el indice del apellido del usuario.indexOf()
-package ejercicios0110;
+package acts01;
 import java.util.Scanner;
 
 public class Ejer05{

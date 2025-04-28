@@ -1,6 +1,6 @@
 // Mostrar la tabla de multiplicar completa del 1 al 10 
 
-package ejercicios0110;
+package acts01;
 
 public class Ejer10{
     public static void main(String args[]){

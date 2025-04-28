@@ -1,9 +1,9 @@
 // Pedir al usuario 15 numeros y devolver cuanto de esos numeros son pares y cuantos son impares
 
-package ejercicios1120;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer12{
+public class Act12{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
         for(int i = 0; i < 15; i++){
