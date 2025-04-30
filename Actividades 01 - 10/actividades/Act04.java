@@ -1,8 +1,8 @@
 // Dado un numero de segundos(int) convertirlo a minutos(double) utilizar el modulo-%
-package acts01;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer04{
+public class Act04{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Ingresar la cantidad de segundos (s) que desees: ");

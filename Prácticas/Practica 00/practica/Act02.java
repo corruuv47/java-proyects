@@ -1,10 +1,10 @@
 // Verificación de edad: Escribir un programa que determine si una persona puede votar
 // (mayor de 16 años) si está obligado a votar (mayor de 18 años) o si no puede votar.
 
-package pract00;
+package practica;
 import java.util.Scanner;
 
-public class Ej2{
+public class Act02{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Ingresá tu edad: ");

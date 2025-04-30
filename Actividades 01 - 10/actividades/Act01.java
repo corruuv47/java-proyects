@@ -1,9 +1,9 @@
 // Código que ingresa un nombre por entrada estándar e imprime el nombre ingresado.
 
-package acts01;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer01{
+public class Act01{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("¿Cómo te llamas? ");

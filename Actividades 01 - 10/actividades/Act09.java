@@ -1,9 +1,9 @@
 // Mostrar los numeros impares del 1 al N
 
-package acts01;
+package actividades;
 import java.util.Scanner;
 
-public class Ejer09{
+public class Act09{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Decime un numero: ");

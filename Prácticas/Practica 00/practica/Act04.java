@@ -1,9 +1,9 @@
 // Validación de número positivo: Comprobar si un número ingresado es positivo, negativo o cero.
 
-package pract00;
+package practica;
 import java.util.Scanner;
 
-public class Ej4{
+public class Act04{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Ingresá un numero: ");

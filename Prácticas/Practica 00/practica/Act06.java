@@ -1,10 +1,10 @@
 // Alumno Aprobado: Determinar si un alumno cumple con el 80% de asistencia(faltas>15) y
 // un promedio mayor a 6 para aprobar una materia (&&).
 
-package pract00;
+package practica;
 import java.util.Scanner;
 
-public class Ej6 {
+public class Act06{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Ingresá las faltas del alumno: ");

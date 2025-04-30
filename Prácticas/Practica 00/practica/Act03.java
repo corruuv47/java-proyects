@@ -1,10 +1,10 @@
 // Autenticación de usuario: Pedir un nombre de usuario y contraseña, y verificar si
 // coinciden con un usuario y contraseña guardado.
 
-package pract00;
+package practica;
 import java.util.Scanner;
 
-public class Ej3{
+public class Act03{
 	public static void main(String args[]) {
 		String mi_user = "Corruuuu04";
 		String mi_contraseña = "02-06-2007";

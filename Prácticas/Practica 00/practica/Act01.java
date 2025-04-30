@@ -1,10 +1,10 @@
 // Comparar dos números: Solicitar dos números distintos y mostrar cual es el mayor, tener
 // en cuenta el caso de que sean iguales.
 
-package pract00;
+package practica;
 import java.util.Scanner;
 
-public class Ej1{
+public class Act01{
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Ingresá un numero a:");
